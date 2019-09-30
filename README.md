@@ -8,3 +8,4 @@
 * postgreSQL
 * python 3.6
 ## Пример работы:
+<img src="https://github.com/godor1333/django-callboard/blob/master/Скриншот.png" width="900" height="450">|
